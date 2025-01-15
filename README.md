@@ -8,7 +8,7 @@ This project is an analysis and model training exercise based on a Kaggle datase
 3. **Model Training (Full Dataset)**: Extends the model training process to work with the entire dataset for final evaluations.
 
 ## Dataset Source
-The dataset used in this project is sourced from (Kaggle)[https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques].
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 ## References
 This project used as references other similar exercises and publicly available projects. While specific projects are not directly cited here, you can explore Kaggle notebooks and GitHub repositories for additional references and methodologies. It is highly recommended to credit authors if you adapt their work.

@@ -2,3 +2,4 @@
 .ipynb*/
 catboost_info/
 predictions/
+__pycache__/

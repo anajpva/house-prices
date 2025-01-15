@@ -10,7 +10,6 @@ num_pipeline = Pipeline(steps=[
     ('scaler',StandardScaler())
 ])
 
-#Mirar como funcionan estos pipelines y que implican estas configuraciones
 ohe_pipeline = Pipeline(steps=[
     ('impute', SimpleImputer(strategy='most_frequent')),
     ('ohe', OneHotEncoder(handle_unknown='ignore', sparse_output=False))

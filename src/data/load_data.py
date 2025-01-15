@@ -1,20 +1,7 @@
 import pandas as pd
-import sys
-import os
-
-# Add project root to pythonpath
-sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
 
 def load_data(filepath):
-    """
-    Carga un archivo CSV en un DataFrame de pandas.
-
-    Args:
-        filepath (str): Ruta al archivo CSV.
-
-    Returns:
-        pd.DataFrame: DataFrame con los datos cargados.
-    """
+    # Load CSV file as a pandas DataFrame
     try:
         data_path = '../' + filepath
         data = pd.read_csv(data_path)

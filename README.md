@@ -11,7 +11,7 @@ This project is an analysis and model training exercise based on a Kaggle datase
 The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
 
 ## References
-This project used as references other similar exercises and publicly available projects. While specific projects are not directly cited here, you can explore Kaggle notebooks and GitHub repositories for additional references and methodologies. It is highly recommended to credit authors if you adapt their work.
+This project used as references other similar exercises and publicly available projects. 
 
 ## How to Run the Project
 1. Clone the repository containing these notebooks.

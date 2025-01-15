@@ -1,1 +1,5 @@
 .env/*
+.ipynb*/
+catboost_info/
+temp/
+predictions/
